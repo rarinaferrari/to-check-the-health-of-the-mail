@@ -1,6 +1,7 @@
 import os
 from django.core.mail import send_mail
 
+#USE Python3
 
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "settings.config")
 
